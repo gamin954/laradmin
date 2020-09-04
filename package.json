@@ -13,7 +13,7 @@
     "core-js": "^3.6.0",
     "element-ui": "^2.13.0",
     "es6-promise": "^4.2.8",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "nprogress": "^0.2.0",
     "swiper": "^5.2.1",
     "vue": "^2.6.10",
